@@ -13,7 +13,7 @@
 
     <cocoon:plugin name="cocoon-plugin-multiplayer-ios-gamecenter"/>
     <cocoon:plugin name="cocoon-plugin-multiplayer-android-googleplaygames">
-        <param name="APP_ID" value=""/>
+        <param name="APP_ID" value="appidgoeshere"/>
     </cocoon:plugin>
 
     <preference name="Orientation" value="landscape"/>
